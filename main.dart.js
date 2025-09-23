@@ -84187,7 +84187,7 @@ var $async$Am=A.K(function(a,b){if(a===1){o.push(b)
 s=p}while(true)switch(s){case 0:if(n.a){s=1
 break}p=4
 m=A.b([],t.RD)
-for(j=0;j<31;++j){l=B.HK[j]
+for(j=0;j<27;++j){l=B.HK[j]
 J.i6(m,n.x4(l))}s=7
 return A.Q(A.mn(m,t.z),$async$Am)
 case 7:n.a=!0
@@ -84360,7 +84360,7 @@ this.a.toString
 p=A.cK(this.a3G(n),B.a0,B.cO)
 return new A.ax(1/0,o,new A.ct(new A.am(s,r,s,r),A.fQ(new A.hv(new A.a9(0,q,0,1/0),p,o),o,o),o),o)},
 a3G(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=a.ok,h=i.d
-h=A.bf("Let\u2019s create impact together",j,j,j,j,j,j,j,h==null?j:h.nN(B.m,B.am),j,j,j)
+h=A.bf("Let's create impact together.",j,j,j,j,j,j,j,h==null?j:h.nN(B.m,B.am),j,j,j)
 i=i.y
 i=A.bf("If you\u2019d like to know more about my work or are interested in potential collaboration or recruitment, feel free to send me a message or email me directly at aceprar012@gmail.com or ",j,j,j,j,j,j,j,i==null?j:i.cq(B.m.ah(0.8)),j,j,j)
 s=A.hc(j,j,B.m.ah(0.7),j,j,j,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j)
@@ -84398,7 +84398,7 @@ A.ajL.prototype={
 $0(){return this.a.w=!1},
 $S:0}
 A.HC.prototype={
-L(a6){var s,r,q,p,o,n,m=this,l=null,k="(About.)",j="I\u2019m Acep, a Weather Forecaster and Climate Researcher with expertise in climate data analysis, weather modeling, and computational meteorology. I combine technical skills with hands-on experience in forecasting, climate impact studies, and sensor installation to deliver reliable insights for climate resilience.",i="Years\nExperience",h="Projects\nCompleted",g="Millions",f="of Codes\nWritten",e="Hundreds",d="of Screen\nDesigned",c="Coffee\nConsumed",b=t.w,a=A.Y(a6,l,b).w.a.a,a0=a<768,a1=a>=768&&a<1024,a2=A.Y(a6,l,b).w,a3=A.Y(a6,l,b).w,a4=a0?16:24,a5=a0?16:24
+L(a6){var s,r,q,p,o,n,m=this,l=null,k="(About.)",j="I'm Acep, a Weather Forecaster and Climate Researcher with expertise in climate data analysis, weather modeling, and computational meteorology. I combine technical skills with hands-on experience in forecasting, climate impact studies, and sensor installation to deliver reliable insights for climate resilience.",i="Years\nExperience",h="Projects\nCompleted",g="Millions",f="of Codes\nWritten",e="Hundreds",d="of Screen\nDesigned",c="Coffee\nConsumed",b=t.w,a=A.Y(a6,l,b).w.a.a,a0=a<768,a1=a>=768&&a<1024,a2=A.Y(a6,l,b).w,a3=A.Y(a6,l,b).w,a4=a0?16:24,a5=a0?16:24
 if(a0){s=A.U(a6).ok.y
 s=A.cK(A.bf(k,l,l,l,l,l,l,l,s==null?l:s.nN(B.m,B.am),l,l,l),B.aC,B.aM)
 r=A.U(a6).ok.e
@@ -85562,7 +85562,7 @@ l=A.ago(A.o7().$4$color$fontSize$fontWeight$letterSpacing(B.m,16,B.n,0.5),A.o7()
 m=A.axQ(B.w,!0,k,k,0,B.m,A.wj().$3$color$fontSize$fontWeight(B.m,24,B.n))
 n=A.ayW(k,k,B.K,k,k,k,0,k,k,B.m,k,k,B.EB,k,new A.cO(A.cF(8),B.t),k,k,k,k,k)
 l=A.uB(m,k,new A.ro(k,B.iW,k,k,0,k,new A.cO(A.cF(16),B.t)),B.Cr,new A.rT(n),B.T,B.w,B.C5,l,!0)
-return new A.zr(A.acx(B.w,new A.zW(new A.ain(this,s),k)),"Raihan-Polymorphism",l,!1,k)}}
+return new A.zr(A.acx(B.w,new A.zW(new A.ain(this,s),k)),"Acep-Portfolio",l,!1,k)}}
 A.ail.prototype={
 $0(){var s=this.a
 if(s.c!=null){s=s.d
@@ -90642,7 +90642,7 @@ B.zQ=new A.v6(2,"bottomLeft")
 B.VN=new A.lD(B.zP,B.zQ)
 B.VO=new A.lD(B.zQ,B.zP)
 B.HJ=s([B.VM,B.VP,B.VN,B.VO],A.an("w<lD>"))
-B.HK=s(["assets/images/avatar.png","assets/images/logo.png","assets/images/workBg.png","assets/images/Foreground.jpg","assets/images/Background.jpg","assets/images/fragment1.png","assets/images/fragment2.png","assets/images/fragment3.png","assets/images/fragment4.png","assets/images/fragment5.png","assets/images/fragment6.png","assets/images/complete.png","assets/images/paper.png","assets/images/works/project1-1.png","assets/images/works/project1-2.png","assets/images/works/project1-3.png","assets/images/works/project2-1.png","assets/images/works/project2-2.png","assets/images/works/project2-3.png","assets/images/works/project3-1.png","assets/images/works/project3-2.png","assets/images/works/project3-3.png","assets/images/works/project4-1.png","assets/images/works/project4-2.png","assets/images/works/project4-3.png","assets/images/works/project5-1.png","assets/images/works/project5-2.png","assets/images/works/project5-3.png","assets/images/works/project6-1.png","assets/images/works/project6-2.png","assets/images/works/project6-3.png"],t.s)
+B.HK=s(["assets/images/avatar.png","assets/images/logo.png","assets/images/workBg.png","assets/images/Foreground.jpg","assets/images/Background.jpg","assets/images/fragment1.png","assets/images/fragment2.png","assets/images/fragment3.png","assets/images/fragment4.png","assets/images/fragment5.png","assets/images/fragment6.png","assets/images/complete.png","assets/images/paper.png","assets/images/works/project1-1.png","assets/images/works/project1-2.png","assets/images/works/project1-3.png","assets/images/works/project2-1.png","assets/images/works/project2-2.png","assets/images/works/project2-3.png","assets/images/works/project3-1.png","assets/images/works/project3-2.png","assets/images/works/project3-3.png","assets/images/works/project4-1.png","assets/images/works/project4-2.png","assets/images/works/project4-3.png","assets/images/works/project6-1.png","assets/images/works/project6-2.png"],t.s)
 B.ME=new A.ag(0.01339448,0.05994973)
 B.MD=new A.ag(0.13664115,0.13592082)
 B.Mq=new A.ag(0.24545546,0.14099516)
